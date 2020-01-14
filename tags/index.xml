@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Devlog</title>
-    <link>devsuub.github.io/tags/</link>
+    <link>gazzua.github.io/tags/</link>
     <description>Recent content in Tags on Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     
-	<atom:link href="devsuub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="gazzua.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
