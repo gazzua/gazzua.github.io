@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Log</title>
-    <link>http://gazzua.github.io/</link>
+    <link>https://gazzua.github.io/</link>
     <description>Recent content on Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     
-	<atom:link href="http://gazzua.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gazzua.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
