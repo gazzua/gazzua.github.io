@@ -18,7 +18,7 @@
       <pubDate>Sun, 26 Jan 2020 18:53:10 +0900</pubDate>
       
       <guid>https://gazzua.github.io/posts/golang_study_1/</guid>
-      <description>Golang Study 1 이번 방학에는 golang으로 개인프로젝트를 진행해보려고 해서 공부를 하고 있고 그 내용중 일부를 블로그에 정리를 해보려한다.
+      <description>이번 방학에는 golang으로 개인프로젝트를 진행해보려고 해서 공부를 하고 있고 그 내용중 일부를 블로그에 정리를 해보려한다.
 function 선언 func hello(매개변수) (반환타입) { // fucntion code }  위 형태로 선언 매개변수, 반환타입은 없으면 생략가능
 func sum(x int, y int) int { return x+y } func sum(x, y int) (z int) { z = x+y return }  위처럼 반환 변수를 지정해서 return 가능
 func sum(n ...int) int { sum := 0 for _, val := range n { sum += val } return sum } func main() { arr := []int{1,2,3} fmt.</description>
