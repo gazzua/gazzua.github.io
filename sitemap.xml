@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gazzua.github.io/categories/</loc>
+    <loc>https://gazzua.github.io/posts/golang_study_1/</loc>
+    <lastmod>2020-01-26T18:53:10+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://gazzua.github.io/</loc>
+    <lastmod>2020-01-26T18:53:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gazzua.github.io/posts/</loc>
+    <lastmod>2020-01-26T18:53:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gazzua.github.io/categories/</loc>
   </url>
   
   <url>
